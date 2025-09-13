@@ -1,5 +1,5 @@
 
-# 🌎 Geomimi – An Intelligent Assistent of Hydrological Calculus Assistant (Open Source)
+# 🌎 Geomimi – An Intelligent Assistent of Hydrological Calculus Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
