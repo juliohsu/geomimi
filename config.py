@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # UI Configuration
-PAGE_TITLE = "Geomimi - IA Geografo"
+PAGE_TITLE = "Geomimi - IA Geografo (Made by Julio Hsu)"
 PAGE_ICON = "🌎"
 LAYOUT = "wide"
 SIDEBAR_STATE = "expanded"
