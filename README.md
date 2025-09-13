@@ -17,6 +17,8 @@ If you're looking to understand how LangGraph works with RAG systems, this imple
 
 ## How It Works
 
+*Demo Video Link of our app: https://www.loom.com/share/75cde0cc4820449bbf9580479d4fa1fb*
+
 Here is what happens when you use this application and the process is actually quite straightforward:
 
 ![Workflow](screenshots/graph.png)
